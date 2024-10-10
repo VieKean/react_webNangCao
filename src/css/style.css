@@ -1,0 +1,19 @@
+/* styles.css */
+
+/* Style for the Menu component */
+.menu {
+    display: flex; /* Use flexbox for horizontal layout */
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+}
+
+.menu-item {
+    margin-right: 20px; /* Add space between items */
+}
+
+/* Style for the Information component */
+.information {
+    color: #007BFF; /* Change the text color (blue) */
+    font-weight: bold; /* Make the text bold */
+}
